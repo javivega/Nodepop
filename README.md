@@ -15,6 +15,8 @@ npm run-script installDB
 
 Este comando inicializará la base de datos con 3 anuncios y 2 usuarios, para poder empezar a usar el API.
 
+Por último para terminar de arrancar nuestro proyecto, desde la carpeta donde lo hemos clonado teclearemos nodemon(necesitamos una instalación previa del mismo), esto arrancara nuestra app.
+
 El API solo permite la consulta de anuncios a usuarios registrados y logeados usando jsonwebtoken. Podemos pasar el token que se nos proporciona al logearnos, por ejemplo mediante el programa postman, en la querystring de esta manera:
 
 http://localhost:3000/apiv1/anuncios?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNThlNjE2YzM5ZjRhNzgzMzA0NTM4N2ExIiwiaWF0IjoxNDkxNDc0Mjk3LCJleHAiOjE0OTE2NDcwOTd9.P27E3QL0HugETC7y4ms3EbqyCPcDPxzX3QuwEofZOPA
