@@ -1,0 +1,18 @@
+{
+  "en": {
+    "ANC_NOT_FOUND": "Advertisement not found",
+    "NAME_EXIST": "Name already exists",
+    "USR_NOT_FOUND": "User not found",
+    "INVALID CREDENTIALS": "Invalid Credentials",
+    "NO_TOKEN_PROVIDED": "No token provided",
+    "INVALID_TOKEN": "Invalid token"
+  },
+  "es": {
+    "ANC_NOT_FOUND": "Anuncio no encontrado",
+    "NAME_EXIST": "El nombre ya existe",
+    "USR_NOT_FOUND": "usuario no encontrado",
+    "INVALID CREDENTIALS": "Credenciales invalidas",
+    "NO_TOKEN_PROVIDED": "No se ha proporcionado token",
+    "INVALID_TOKEN": "token invalido"
+  }
+}

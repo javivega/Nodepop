@@ -1,0 +1,38 @@
+
+{
+    "users": [
+    {
+      "nombre": "Miguel",
+      "email": "miguel@gmail.com",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    {
+      "nombre": "Jose",
+      "email": "jose@gmail.com",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    }
+  ],
+    "anuncios": [
+        {
+            "nombre": "Bicicleta",
+            "venta": "true",
+            "precio": 230.15,
+            "foto": "bici.jpg",
+            "tags": ["lifstyle", "motor"]
+        },
+        {
+            "nombre": "Iphone 3GS",
+            "venta": "false",
+            "precio": 50.00,
+            "foto": "iphone.jpg",
+            "tags": ["lifstyle", "mobile"]
+        },
+        {
+            "nombre": "Porche",
+            "venta": "true",
+            "precio": 5550.00,
+            "foto": "porche.jpg",
+            "tags": ["motor", "mobile"]
+        }
+    ]
+}
